@@ -8,8 +8,8 @@
 
 > Shorten URLs, track analytics, cache with Redis. Built with NestJS.
 
-🚀 **Live:** DEPLOYED_URL_PLACEHOLDER
-📖 **API Docs:** DEPLOYED_URL_PLACEHOLDER/api/docs
+🚀 **Live:** https://url-shortener-api-production-cae4.up.railway.app
+📖 **API Docs:** https://url-shortener-api-production-cae4.up.railway.app/api/docs
 
 ---
 
